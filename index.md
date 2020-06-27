@@ -11,3 +11,6 @@ Wenn er in der Nähe ist herrscht Murpy's Gesetz: Alles was schiefgehen kann, ge
 * Rucksack
 
 > Diogee, geh nach Hause! Er sollte eigentlich nicht [Was Diogee gerade gemacht hat].
+
+<img src="https://en.wikipedia.org/wiki/File:Milo_Murphy_Logo.jpg"/>
+(Disney)
