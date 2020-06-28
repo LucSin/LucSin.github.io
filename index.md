@@ -10,7 +10,7 @@ Wenn er in der Nähe ist herrscht Murpy's Gesetz: Alles was schiefgehen kann, ge
 * Familie: Schwester(Sara), Mutter(Brigette), Vater(Martin)
 * Rucksack
 
-> Diogee, geh nach Hause! Er sollte eigentlich nicht [Was Diogee gerade gemacht hat].
+
 
 ## Freunde
 * Melissa
@@ -26,6 +26,7 @@ Wenn er in der Nähe ist herrscht Murpy's Gesetz: Alles was schiefgehen kann, ge
 * Buford
 * Doofenschmirtz
 * Klassenkameraden
+* Oktanianer
 
 ## Familie
 * Mutter Brigette Murphy
@@ -40,5 +41,8 @@ Wenn er in der Nähe ist herrscht Murpy's Gesetz: Alles was schiefgehen kann, ge
 
 
 Milo sagte:
+> Diogee, geh nach Hause!
+
+
 <img src="https://upload.wikimedia.org/wikipedia/en/4/40/Milo_Murphy_Logo.jpg"/>
 (Disney)
