@@ -12,5 +12,33 @@ Wenn er in der Nähe ist herrscht Murpy's Gesetz: Alles was schiefgehen kann, ge
 
 > Diogee, geh nach Hause! Er sollte eigentlich nicht [Was Diogee gerade gemacht hat].
 
+## Freunde
+* Melissa
+* Zack
+* Cavendish
+* Dakota
+* Perry das Schnabeltier
+* Diogee
+* Phineas
+* Ferb
+* Candice
+* Baljeet
+* Buford
+* Doofenschmirtz
+* Klassenkameraden
+
+## Familie
+* Mutter Brigette Murphy
+* Vater Martin Murphy
+* Schwester Sara Murphy
+* Tante Laura Murphy
+* Onkel Joey Murphy
+* Cousin Nate Murphy
+* Großvater Murphy
+* Großmutter Murphy
+
+
+
+Milo sagte:
 <img src="https://upload.wikimedia.org/wikipedia/en/4/40/Milo_Murphy_Logo.jpg"/>
 (Disney)
